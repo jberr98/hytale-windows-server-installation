@@ -14,3 +14,7 @@ Just a simple script to simplify the Hytale server install on Windows, mostly on
 4. After it will start the download of the server files
 5. Automatically creates a script to launch the server
 6. Done! Just start the server and configure as you want
+
+# Disclaimer
+
+- This is NOT affiliated with Hytale
