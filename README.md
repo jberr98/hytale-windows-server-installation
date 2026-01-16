@@ -1,11 +1,20 @@
+# Hytale windows server installation script
+
 # Description
 
-Just a simple script to simplify the Hytale server install on Windows, mostly on desktops PC.
+Just a simple script to simplify the Hytale server install on Windows, mostly on desktops PC. Works as well with just terminal usage, Powershell or CMD.
+
+# Features
+
+- Installs everything needed to start a Hytale server from scratch
+- Automatically creates launcher to start the server
+- Auto checks for new version without downloading a new version
+- Sets backups every 30 minutes
 
 # Requirements
 
 - Windows (tested on Windows 11)
-- Java 25 (to start the server)
+- Java 25
 
 # Installation
 
